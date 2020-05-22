@@ -20,5 +20,9 @@
 			"Name": "NiagaraExtras",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"WindowsNoEditor"
 	]
 }
